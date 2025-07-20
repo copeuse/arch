@@ -1,0 +1,2 @@
+# arch
+ma config arch
