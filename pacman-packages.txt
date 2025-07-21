@@ -7,6 +7,8 @@ bluez-utils
 brightnessctl
 efibootmgr
 firefox
+fish
+flatpak
 git
 grub
 gvfs
@@ -34,6 +36,7 @@ pipewire-pulse
 qt5ct
 sddm
 sof-firmware
+soulseekqt
 sudo
 thunar
 ttf-dejavu
@@ -47,4 +50,5 @@ wofi
 xdg-desktop-portal
 xdg-desktop-portal-wlr
 xdg-utils
-zsh
+yay
+yay-debug
