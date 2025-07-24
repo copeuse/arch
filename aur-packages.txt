@@ -1,3 +1,4 @@
+bottles
 soulseekqt
 yay
 yay-debug

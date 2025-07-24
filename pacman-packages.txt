@@ -19,8 +19,6 @@ hyprpaper
 intel-media-driver
 intel-ucode
 kitty
-lib32-mesa
-lib32-vulkan-intel
 libva-utils
 linux
 linux-firmware
@@ -32,6 +30,7 @@ nwg-look
 pipewire
 pipewire-alsa
 pipewire-pulse
+sassc
 sddm
 sof-firmware
 sudo
