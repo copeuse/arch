@@ -1,4 +1,8 @@
 bottles
-soulseekqt
+mpdas
+ttf-font-awesome
+ttf-monapo
+vesktop
+virtualbox-ext-oracle
 yay
 yay-debug
